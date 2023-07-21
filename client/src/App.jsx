@@ -5,3 +5,5 @@ function App() {
 }
 
 export default App;
+
+// video stopped at 6:00
