@@ -5,13 +5,3 @@ function App() {
 }
 
 export default App;
-
-// video stopped at 51:31
-
-/*
-Likely cateogories
-- keyboards
-- monitors
-- mouse
-- headsets
-*/
