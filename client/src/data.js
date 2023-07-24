@@ -21,3 +21,21 @@ export const sliderItems = [
     bg: "fbf0f4",
   },
 ];
+
+export const categories = [
+  {
+    id: 1,
+    img: "https://images.unsplash.com/photo-1591259932860-d1cbc0b81ec1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    title: "KEYBOARDS",
+  },
+  {
+    id: 2,
+    img: "https://images.unsplash.com/photo-1613141411244-0e4ac259d217?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    title: "MOUSE",
+  },
+  {
+    id: 3,
+    img: "https://images.unsplash.com/photo-1616138276663-5041438a8476?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+    title: "MONITORS",
+  },
+];
